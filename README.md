@@ -90,19 +90,19 @@ Built specifically for Karachi's delivery network, Smart Route Delivery Planner 
 ## 🛠️ Tech Stack
 
 ### Frontend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Backend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,flask"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flask-CORS](https://img.shields.io/badge/Flask--CORS-000000?style=flat-square)
 
 ### Libraries & Frameworks
-<p align="left">
-<img src="https://skillicons.dev/icons?i=bootstrap,leafletjs"/>
-</p>
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199EF5?style=flat-square&logo=leaflet&logoColor=white)
+![Bootstrap Icons](https://img.shields.io/badge/Bootstrap_Icons-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Algorithms
 ![A* Algorithm](https://img.shields.io/badge/A*-Pathfinding-FFD700?style=flat-square)
