@@ -35,7 +35,7 @@
 - [About The Project](#about-the-project)
 - [⭐ Repository Visitors](#-repository-visitors)
 - [✨ Features](#-features)
-- [🛠️ Tech Stack](#️-tech-stack)
+- [🛠️ Tech Stack](#-tech-stack)
 - [🚀 Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -45,7 +45,7 @@
 - [🔐 Security Notes](#-security-notes)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
-- [❤️ Made with Love](#️-made-with-love)
+- [❤️ Made with Love](#-made-with-love)
 
 ---
 
