@@ -251,10 +251,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 </div>
 
----
-
-<div align="center">
-
-[![Back to Top](#-smart-route-delivery-planner)]
-
-</div>
