@@ -1,21 +1,6 @@
 # Smart Route Delivery Planner
 
 <p align="center">
-  <a href="https://github.com/Blue-Rangoon/smart-route-delivery-planner">
-    <img src="https://img.shields.io/github/license/Blue-Rangoon/smart-route-delivery-planner?style=for-the-badge" alt="License">
-  </a>
-  <a href="https://github.com/Blue-Rangoon/smart-route-delivery-planner">
-    <img src="https://img.shields.io/github/last-commit/Blue-Rangoon/smart-route-delivery-planner?style=for-the-badge" alt="Last Commit">
-  </a>
-  <a href="https://github.com/Blue-Rangoon/smart-route-delivery-planner">
-    <img src="https://img.shields.io/github/issues/Blue-Rangoon/smart-route-delivery-planner?style=for-the-badge" alt="Issues">
-  </a>
-  <a href="https://github.com/Blue-Rangoon/smart-route-delivery-planner">
-    <img src="https://img.shields.io/github/stars/Blue-Rangoon/smart-route-delivery-planner?style=for-the-badge" alt="Stars">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5">
@@ -23,7 +8,6 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/leaflet-199EF5?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet">
-  <img src="https://img.shields.io/badge/a*-pathfinding-FFD700?style=for-the-badge" alt="A* Algorithm">
 </p>
 
 ---
