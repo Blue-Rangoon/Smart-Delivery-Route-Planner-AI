@@ -45,6 +45,7 @@
 - [🔐 Security Notes](#-security-notes)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
+- [👥 Team](#-team)
 - [❤️ Made with Love](#-made-with-love)
 
 ---
