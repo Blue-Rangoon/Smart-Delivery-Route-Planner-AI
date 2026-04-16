@@ -239,27 +239,17 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👥 Team
 
-<div align="center">
+<div align="left">
 
 | Role | Name | LinkedIn |
 |------|------|----------|
-| 🚀 Lead Developer (Backend) | [Sadia Shoaib](https://www.linkedin.com/in/sadia-shoaib-/) | 🔗 View Profile |
+| 🚀 Lead Developer | [Sadia Shoaib](https://www.linkedin.com/in/sadia-shoaib-/) | 🔗 View Profile |
 | 💻 Frontend Developer | [Saad Ali Rizvi](www.linkedin.com/in/saad-ali-rizvi) | 🔗 View Profile |
 | 🔗 Integration & Technical Specialist | [Syed Anas Hasan](https://www.linkedin.com/in/anas19/) | 🔗 View Profile |
 | 🧠 Algorithm Engineer | [Laiba Idrees](https://www.linkedin.com/in/laiba-idrees-a14758319/) | 🔗 View Profile |
 | 📊 Research & Documentation | [Alishba Batool](https://www.linkedin.com/in/alishba-batool-12b851355/) | 🔗 View Profile |
 
 </div>
-
----
-
-### 🧩 Role Breakdown
-
-- **Lead Developer:** Project initiator, core system architecture, backend logic & APIs  
-- **Frontend Developer:** UI design and user interaction implementation  
-- **Integration & Technical Specialist:** Connected frontend with backend, handled system flow & debugging  
-- **Algorithm Engineer:** Designed and implemented route optimization logic  
-- **Research & Documentation:** Managed project documentation, reports, and presentation  
 
 ---
 
