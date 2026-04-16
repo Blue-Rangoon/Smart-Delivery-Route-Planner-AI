@@ -1,22 +1,32 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-# 🚚 Smart Route Delivery Planner
+# Smart Route Delivery Planner
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Smart+Delivery+Route+Planner+AI;Optimize+Routes+in+Real-Time;AI-Powered+Logistics+System;Save+Time+%26+Fuel+Costs&center=true&width=520&height=45">
+</p>
 
 *A.I-Powered Delivery Route Optimization Platform*
 
-[![License](https://img.shields.io/github/license/Blue-Rangoon/smart-route-delivery-planner?style=for-the-badge&color=2ecc71)](LICENSE)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&color=success)](https://github.com/Blue-Rangoon/wpm-typing-test)
+
 [![Last Commit](https://img.shields.io/github/last-commit/Blue-Rangoon/smart-route-delivery-planner?style=for-the-badge&color=f39c12)](https://github.com/Blue-Rangoon/smart-route-delivery-planner/commits/main)
-[![Issues](https://img.shields.io/github/issues/Blue-Rangoon/smart-route-delivery-planner?style=for-the-badge&color=e74c3c)](https://github.com/Blue-Rangoon/smart-route-delivery-planner/issues)
 [![Stars](https://img.shields.io/github/stars/Blue-Rangoon/smart-route-delivery-planner?style=for-the-badge&color=9b59b6)](https://github.com/Blue-Rangoon/smart-route-delivery-planner/stargazers)
-[![Forks](https://img.shields.io/github/forks/Blue-Rangoon/smart-route-delivery-planner?style=for-the-badge&color=3498db)](https://github.com/Blue-Rangoon/smart-route-delivery-planner/network/members)
 [![Contributors](https://img.shields.io/github/contributors/Blue-Rangoon/smart-route-delivery-planner?style=for-the-badge&color=1abc9c)](https://github.com/Blue-Rangoon/smart-route-delivery-planner/graphs/contributors)
 
 </div>
 
 ---
 
-![Project Preview](./preview.png)
+![Project Preview](./preview.jpeg)
 
 ---
 
@@ -45,7 +55,7 @@ AI-powered delivery route optimization platform built with Flask. This applicati
 
 Built specifically for Karachi's delivery network, Smart Route Delivery Planner helps logistics teams optimize their delivery routes with real-time map visualization, smart traffic intelligence, and comprehensive analytics.
 
-> 💡 **Live Demo:** [Smart Route Delivery Planner](http://localhost:5000) *(Run locally)*
+> 💡 **Live Demo:** [Smart Route Delivery Planner](https://smart-delivery-route-planner-ai.vercel.app/) *(Live Website)*
 
 ---
 
@@ -79,20 +89,20 @@ Built specifically for Karachi's delivery network, Smart Route Delivery Planner 
 
 ## 🛠️ Tech Stack
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Flask-CORS](https://img.shields.io/badge/Flask--CORS-000000?style=flat-square)
-
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+### Backend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,flask"/>
+</p>
 
 ### Libraries & Frameworks
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199EF5?style=flat-square&logo=leaflet&logoColor=white)
-![Bootstrap Icons](https://img.shields.io/badge/Bootstrap_Icons-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=bootstrap,leafletjs"/>
+</p>
 
 ### Algorithms
 ![A* Algorithm](https://img.shields.io/badge/A*-Pathfinding-FFD700?style=flat-square)
