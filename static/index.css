@@ -529,15 +529,124 @@ body {
    FOOTER
    =========================== */
 .site-footer {
-  padding: 40px 0;
+  color: var(--text-main);
+  padding: 60px 0 30px;
   border-top: 1px solid var(--border);
-  background: rgba(15,23,42,0.9);
+  background: rgba(15,23,42,0.95);
 }
 
-.footer-copy {
+.site-footer .brand-logo {
+  color: var(--text-main);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+
+
+.site-footer .brand-text {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.site-footer .brand-text .accent {
+  color: var(--primary);
+}
+
+.footer-desc {
   color: var(--text-muted);
-  font-size: 0.8rem;
+  font-size: 0.9rem;
+  line-height: 1.7;
+  max-width: 300px;
+}
+
+.social-icons {
+  display: flex;
+  gap: 12px;
+}
+
+.social-link {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 10px;
+  color: var(--text-muted);
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.social-link:hover {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: white;
+  transform: translateY(-3px);
+}
+
+.footer-heading {
+  color: var(--text);
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin-bottom: 18px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
   margin: 0;
+}
+
+.footer-links li {
+  margin-bottom: 10px;
+}
+
+.footer-links a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.3s ease;
+  position: relative;
+}
+
+.footer-links a:hover {
+  color: var(--primary);
+}
+
+.footer-links a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--primary);
+  transition: width 0.3s ease;
+}
+
+.footer-links a:hover::after {
+  width: 100%;
+}
+
+.footer-bottom {
+  border-top: 1px solid rgba(255,255,255,0.1);
+  padding-top: 20px;
+}
+
+.footer-bottom p {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.btn-sm-custom {
+  padding: 8px 20px;
+  font-size: 0.9rem;
 }
 
 /* ===========================
@@ -762,8 +871,22 @@ body {
   .modal-brand { font-size: 2rem; }
   .modal-header-custom h4 { font-size: 1.2rem; }
   .btn-lg-custom { padding: 12px 20px; font-size: 0.88rem; }
-  .site-footer { padding: 24px 0; }
+  .site-footer { padding: 40px 0 20px; }
   .badge-pill { font-size: 0.7rem; padding: 5px 12px; }
+  .footer-heading { margin-bottom: 14px; }
+  .footer-links li { margin-bottom: 8px; }
+  .footer-desc { max-width: 100%; }
+}
+
+@media (max-width: 576px) {
+  .site-footer .brand-logo { justify-content: center; text-align: center; }
+
+  .footer-desc { text-align: center; }
+  .social-icons { justify-content: center; }
+  .footer-heading { margin-top: 10px; }
+  .footer-links { text-align: center; }
+  .footer-bottom { text-align: center; }
+  .footer-bottom .col-md-6:last-child { margin-top: 15px; }
 }
 
 @media (max-width: 375px) {
