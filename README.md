@@ -41,6 +41,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
+- [📂 Project Structure](#-project-structure)
 - [📖 API Documentation](#-api-documentation)
 - [🗺️ Available Nodes](#-available-nodes)
 - [🔐 Security Notes](#-security-notes)
