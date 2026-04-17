@@ -154,6 +154,39 @@ The application will start on **http://localhost:5000**
 
 ---
 
+## 📂 Project Structure
+
+```
+AI Project/
+├── app.py                    # Main Flask application
+├── requirements.txt         # Python dependencies
+├── vercel.json             # Vercel deployment config
+├── users.json              # User data storage
+├── .gitignore              # Git ignore rules
+├── algorithms/             # Pathfinding algorithms
+│   ├── __init__.py
+│   ├── ai_router.py
+│   ├── astar.py
+│   ├── bfs.py
+│   ├── dfs.py
+│   └── ucs.py
+├── utils/                  # Utility modules
+│   ├── __init__.py
+│   ├── data.py
+│   ├── heuristics.py
+│   └── priority_queue.py
+├── templates/              # HTML templates
+│   ├── index.html
+│   └── dashboard.html
+└── static/                # Frontend assets
+    ├── index.css
+    ├── index.js
+    ├── dashboard.css
+    └── dashboard.js
+```
+
+---
+
 ## 📖 API Documentation
 
 | Endpoint | Method | Description |
