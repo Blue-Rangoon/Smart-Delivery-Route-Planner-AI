@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-# Smart Route Delivery Planner
+# SwiftRoute AI- Smart Route Delivery Planner
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Smart+Delivery+Route+Planner+AI;Optimize+Routes+in+Real-Time;AI-Powered+Logistics+System;Save+Time+%26+Fuel+Costs&center=true&width=520&height=45">
