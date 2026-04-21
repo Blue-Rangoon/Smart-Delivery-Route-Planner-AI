@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-# SwiftRoute AI- Smart Route Delivery Planner
+# SwiftRoute AI - Smart Route Delivery Planner
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Smart+Delivery+Route+Planner+AI;Optimize+Routes+in+Real-Time;AI-Powered+Logistics+System;Save+Time+%26+Fuel+Costs&center=true&width=520&height=45">
@@ -299,7 +299,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ![Flask](https://img.shields.io/badge/Made%20with-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Love](https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=for-the-badge)
 
-*© 2026 Smart Route Delivery Planner. All rights reserved.*
+*© 2026 SwiftRoute AI - Smart Route Delivery Planner. All rights reserved.*
 
 </div>
 
