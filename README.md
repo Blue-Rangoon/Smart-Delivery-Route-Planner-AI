@@ -353,7 +353,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
         <a href="https://github.com/Syed-Anas-Hasan">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
         </a>
-        <a href="https://www.linkedin.com/in/anas19/">
+        <a href="https://www.linkedin.com/in/24fa-035-se-cell/">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
         </a>
       </td>
