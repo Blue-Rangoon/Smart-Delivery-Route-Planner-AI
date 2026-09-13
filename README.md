@@ -342,18 +342,18 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
     <tr>
       <!-- Syed Anas Hasan -->
       <td align="center" width="220" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 15px; vertical-align: top;">
-        <a href="https://github.com/Syed-Anas-Hasan">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBJBcfu964JaBPwAWn-M5nBZHIB91oSmxkfwXOVBzOvtW1l30DlBGyvC0&s=10" width="90" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Syed Anas Hasan Avatar"/>
+        <a href="https://github.com/24fa-035-se-cell">
+          <img src="https://github.com/24fa-035-se-cell.png" width="90" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Syed Anas Hasan Avatar"/>
           <br /><br />
           <font size="3" color="#58a6ff"><b>Syed Anas Hasan</b></font>
         </a>
         <br />
         <font size="2" color="#8b949e">Integration & Technical Specialist</font>
         <br /><br />
-        <a href="https://github.com/Syed-Anas-Hasan">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+        <a href="https://github.com/24fa-035-se-cell">
+          <img src="https://github.com/24fa-035-se-cell.png" alt="GitHub Profile" />
         </a>
-        <a href="https://www.linkedin.com/in/24fa-035-se-cell/">
+        <a href="https://www.linkedin.com/in/anas19/">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
         </a>
       </td>
