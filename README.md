@@ -360,7 +360,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
       <!-- Alishba Batool -->
       <td align="center" width="220" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; padding: 15px; vertical-align: top;">
         <a href="https://github.com/Alishba87542">
-          <img src="https://raw.githubusercontent.com/1l0/identicon/master/example/identicons/default.png" width="90" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Alishba Batool Avatar"/>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxuTto5c65WOlC9PrLY5ngGnBDRsI_KvsoFEt-SMaVVQ&s=10" width="90" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Alishba Batool Avatar"/>
           <br /><br />
           <font size="3" color="#58a6ff"><b>Alishba Batool</b></font>
         </a>
